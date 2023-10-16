@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/amdomaoan/Projects/SampleApp/SampleApp/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/SampleApp.app/Contents/MonoBundle/libSystem.IO.Compression.Native.dylib
